@@ -1,0 +1,42 @@
+
+[   
+    {"email": "anil@mail.com",
+    "pass": "anil#123",
+"name": "Anil",
+"id": "1"
+},
+
+{
+"email": "shyam@mail.com",
+"pass": "shyam#123",
+"name": "Shyam",
+"id": "2"
+
+},
+{
+"email": "radha@mail.com",
+"pass": "radha#123",
+"name": "Radha",
+"id": "3"
+},
+{
+"email": "swara@mail.com",
+"pass": "swara#123",
+"name": "Swara",
+"id": "4"
+},
+{
+"email": "rohan@mail.com",
+"pass": "rohan#123",
+"name": "Rohan",
+"id": "5"
+}
+]
+
+
+
+    
+    
+
+
+    
